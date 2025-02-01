@@ -32,7 +32,7 @@
 - [Iris](https://github.com/IrisShaders/Iris)
 - [LambDynamicLights](https://github.com/LambdAurora/LambDynamicLights)
 - [Litematica](https://github.com/maruohon/litematica)
-- [Loaded Mods Checker](https://github.com/Phoupraw/LoadedModsChecker)
+- [Loaded Mods Checker](https://github.com/Phoupraw/LoadedModsChecker) (Not Working)
 - [Modmenu](https://github.com/TerraformersMC/ModMenu)
 - [Neat](https://github.com/VazkiiMods/Neat)
 - [Presence Footsteps](https://github.com/Sollace/Presence-Footsteps)
