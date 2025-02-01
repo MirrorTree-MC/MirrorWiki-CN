@@ -66,6 +66,7 @@
 - [Fabric Language Kotlin](https://github.com/FabricMC/fabric-language-kotlin/)
 - [Forge Config API Port](https://github.com/Fuzss/forgeconfigapiport)
 - [FTB Library](https://github.com/FTBTeam/FTB-Library)
+- [GeckoLib](https://github.com/bernie-g/geckolib)
 - [GlitchCore](https://github.com/Glitchfiend/GlitchCore)
 - [libIPN](https://github.com/blackd/libIPN)
 - [Masa's Litemod Library](https://github.com/maruohon/malilib)
@@ -73,28 +74,15 @@
 - [TerraBlender](https://github.com/Glitchfiend/TerraBlender)
 - [YetAnotherConfigLib](https://github.com/isXander/YetAnotherConfigLib)
 
-## Other Dependencies
-
-- [GeckoLib](https://github.com/bernie-g/geckolib)
-
 ## Home-made
 
+- [AnnoyingEffects](https://github.com/MirrorTree-MC/AnnoyingEffects)
 - [Disable Free Camera](https://github.com/MirrorTree-MC)
-- [Lantern In Storm](https://github.com/MirrorTree-MC)
-- [Mirrortree](https://github.com/MirrorTree-MC)
-- [Spirit In Storm](https://github.com/MirrorTree-MC)
+- [Lantern In Storm](https://github.com/MirrorTree-MC/Lantern-in-Storm)
+- [Mirrortree](https://github.com/MirrorTree-MC/MirrorTree-Journey)
+- [Spirit In Storm](https://github.com/MirrorTree-MC/Spirit-in-Storm)
 
 ## Server-side
-
-### API and Library for Server-side
-
-- [Cristel Lib](https://github.com/Cristelknight999/Cristel-Lib)
-- [MidnightLib](https://www.mcmod.cn/class/6776.html)
-- [YUNG's API](https://www.mcmod.cn/class/3372.html)
-
-### Quality of Life for Server-side
-
-- [Ageing Spawners](https://www.mcmod.cn/class/5539.html)
 
 ### Additional Contents for Server-side
 
@@ -114,3 +102,13 @@
 - [YUNG's Better Witch Huts](https://www.mcmod.cn/class/6618.html)
 - [YUNG's Bridges](https://www.mcmod.cn/class/5031.html)
 - [YUNG's Extras](https://www.mcmod.cn/class/4276.html)
+
+### Quality of Life for Server-side
+
+- [Ageing Spawners](https://www.mcmod.cn/class/5539.html)
+
+### API and Library for Server-side
+
+- [Cristel Lib](https://www.mcmod.cn/class/12373.html)
+- [MidnightLib](https://www.mcmod.cn/class/6776.html)
+- [YUNG's API](https://www.mcmod.cn/class/3372.html)
