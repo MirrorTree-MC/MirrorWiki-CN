@@ -54,6 +54,8 @@
 - [Continuity](https://github.com/PepperCode1/Continuity)
 - [Sodium](https://github.com/CaffeineMC/sodium)
 - [spark](https://github.com/lucko/spark)
+- [ThreatenGL](https://github.com/Numelon-Softworks/ThreatenGL)
+- [Super Fast Math](https://github.com/ItzjustElias/FastMathMod)
 
 ## API and Library
 
