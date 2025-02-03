@@ -1,14 +1,14 @@
 # MirrorTree-Journey 整合包更新记录
 
-===2025/2/1 version 1.4.0===
+===2025/2/3 version 1.4.0===
 
 - 更新 Chatheads 模组到 0.13.12 版本。
-- 添加优化模组：
+- 添加优化模组，进一步优化游戏性能（发现玩家人数较多，所以引入了新的优化模组）。
   - Very many players
   - Lithium
   - Sodium-extra
   - Reese's Sodium Options
-- 引入了整合包管理模组 ModpackUtils，以便于管理整合包的更新和配置。同时修改了游戏标题和进服欢迎语。
+- 引入了整合包管理模组 ModpackUtils，以便于管理整合包的更新和配置。同时修改了游戏标题和进服欢迎语（请自行寻找亮点）。
 
 ===2025/2/1 version 1.3.5===
 
