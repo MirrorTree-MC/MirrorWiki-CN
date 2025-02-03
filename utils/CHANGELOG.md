@@ -2,8 +2,18 @@
 
 ===2025/2/1 version 1.4.0===
 
+- 更新 Chatheads 模组到 0.13.12 版本。
+- 添加优化模组：
+  - Very many players
+  - Lithium
+  - Sodium-extra
+  - Reese's Sodium Options
+- 引入了整合包管理模组 ModpackUtils，以便于管理整合包的更新和配置。同时修改了游戏标题和进服欢迎语。
+
+===2025/2/1 version 1.3.5===
+
 - 移除 Tweakeroo，有需要的玩家可以自行安装（该更改是考虑到新手使用 Tweakeroo 可能并不熟练）。
-- 添加了两个优化模组：superfastmath 和 threatenGL。前者会加快数学运算，后者在硬件支持的情况下将会使用 OpenGL 4.6 替代 MC 默认的 3.2 版本，提高渲染性能。
+- 添加了两个优化模组：superfastmath 和 threatenGL。前者会加快数学运算（但是并不十分显著），后者在硬件支持的情况下将会使用 OpenGL 4.6 替代 MC 默认的 3.2 版本，提高渲染性能。
 
 ===2025/1/31 version 1.3.0===
 
