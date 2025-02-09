@@ -1,5 +1,14 @@
 # MirrorTree-Journey 整合包更新记录
 
+===2025/2/12 version 1.5.0-prelease===
+
+- 部分模组更新（均为小版本更新）
+  - Chatheads
+  - Farmer's Delight
+  - Sodium
+  - ...（有点忘了还有哪些，反正都是小更新，没有什么影响（雾））
+- 添加了 RewardZ 模组，用于实现每日签到功能。
+
 ===2025/2/3 version 1.4.0===
 
 - 更新 Chatheads 模组到 0.13.12 版本。
@@ -8,7 +17,7 @@
   - Lithium
   - Sodium-extra
   - Reese's Sodium Options
-- 引入了整合包管理模组 ModpackUtils，以便于管理整合包的更新和配置。同时修改了游戏标题和进服欢迎语（请自行寻找亮点）。
+- 引入了整合包管理模组 ModpackUtils，以便于管理整合包的更新（会提示从群内下载新版整合包）和配置。同时修改了游戏标题和进服欢迎语（请自行寻找亮点）。
 
 ===2025/2/1 version 1.3.5===
 
