@@ -1,5 +1,9 @@
 # MirrorTree-Journey 整合包更新记录
 
+===2025/3/1 version 1.5.2===
+
+- 补充 Patchouli Book 模组。
+
 ===2025/3/1 version 1.5.1===
 
 - 添加了 MirrorTree 汉化语言包。汉化有 bug 的地方/希望添加的内容请在群内反馈。
