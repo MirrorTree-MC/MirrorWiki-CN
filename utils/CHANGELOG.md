@@ -1,8 +1,13 @@
 # MirrorTree-Journey 整合包更新记录
 
+===2025/3/21 version 1.5.3===
+
+- 更新 Farmer's Delight 模组到 3.0.1 版本，同时增加了 adventurez 的自动更新。
+- 已知 Patchouli 模组与当前的自动更新存在冲突，请下载群内的 Patchouli 模组手动更新（悲）。
+
 ===2025/3/1 version 1.5.2===
 
-- 补充 Patchouli Book 模组。
+- 补充 Patchouli 模组。
 
 ===2025/3/1 version 1.5.1===
 
